@@ -33,4 +33,4 @@ I am the only international student in this course spending 13 hours flying all 
 
 6. [HOW HAS SOCIAL MEDIA CHANGED THE NATURE AND DESIGN OF WEBSITES OVER THE LAST DECADE?](http://fourthfloor.raveweb.net/cgeh/2016/12/09/how-has-social-media-changed-the-nature-and-design-of-websites-over-the-last-decade/)
 
-7. [Why do people spend so much time in virtual online worlds? Is this a healthy thing?](http://fourthfloor.raveweb.net/cgeh/2016/12/09/%E2%80%A2why-do-people-spend-so-much-time-in-virtual-online-worlds-is-this-a-healthy-thing/)
+7. [WHY DO PEOPLE SPEND SO MUCH TIME IN VIRTUAL ONLINE WORLDS? IS THIS A HEALTHY THING?](http://fourthfloor.raveweb.net/cgeh/2016/12/09/%E2%80%A2why-do-people-spend-so-much-time-in-virtual-online-worlds-is-this-a-healthy-thing/)
