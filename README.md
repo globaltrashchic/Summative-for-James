@@ -32,3 +32,5 @@ I am the only international student in this course spending 13 hours flying all 
 5. [WHAT WILL BE THE MOST INFLUENTIAL WEB TECHNOLOGY OVER THE NEXT 5 YRS?](http://fourthfloor.raveweb.net/cgeh/2016/10/12/what-will-be-the-most-influential-web-technology-over-the-next-5-yrs/)
 
 6. [HOW HAS SOCIAL MEDIA CHANGED THE NATURE AND DESIGN OF WEBSITES OVER THE LAST DECADE?](http://fourthfloor.raveweb.net/cgeh/2016/12/09/how-has-social-media-changed-the-nature-and-design-of-websites-over-the-last-decade/)
+
+7. [Why do people spend so much time in virtual online worlds? Is this a healthy thing?](http://fourthfloor.raveweb.net/cgeh/2016/12/09/%E2%80%A2why-do-people-spend-so-much-time-in-virtual-online-worlds-is-this-a-healthy-thing/)
