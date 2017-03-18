@@ -21,7 +21,7 @@ I am the only international student in this course spending 13 hours flying all 
 *The Blog posts for this unit are listed below:*
 
 
-1. [HOW HAS THE AVAILABILITY OF UGC AND SOCIAL MEDIA CHANGED YOUR MEDIA CONSUMPTION HABITS?](http://fourthfloor.raveweb.net/cgeh/2016/12/08/how-has-the-availability-of-ugc-and-social-media-changed-your-media-consumption-habits/)
+1. [Pick a site from Study and Report Back slide in this presentation that you HAVEN’T been a member of before today.](http://fourthfloor.raveweb.net/cgeh/2017/01/28/instagram/)
 
 2. [WHAT ROLE HAVE YOU PERFORMED IN THE GROUP PROJECT? WHAT DID YOU CONTRIBUTE TO THE PROJECT?](http://fourthfloor.raveweb.net/cgeh/2016/12/08/what-role-have-you-performed-in-the-group-project-what-did-you-contribute-to-the-project/)
 
