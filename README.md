@@ -21,9 +21,9 @@ I am the only international student in this course spending 13 hours flying all 
 *The Blog posts for this unit are listed below:*
 
 
-1. [Pick a site from Study and Report Back slide in this presentation that you HAVEN’T been a member of before today.](http://fourthfloor.raveweb.net/cgeh/2017/01/28/instagram/)
+1. [Ideas for Sharing is caring](https://drive.google.com/open?id=0Byfa_F7ZhxpFQ2pMZDEzTm9QZkk)
 
-2. [Research an area that could benefit from an online community or social network; explain why the area could benefit and what the current provisions (if any) lack.](http://fourthfloor.raveweb.net/cgeh/2017/03/01/research-an-area-that-could-benefit-from-an-online-community-or-social-network-explain-why-the-area-could-benefit-and-what-the-current-provisions-if-any-lack/)
+2. [JavaScript for cats](http://fourthfloor.raveweb.net/cgeh/2017/01/28/javascripts-for-cats/)
 
 3. [Research and report back on the topic of “sentiment tracking” in social media analytics. Is it useful? Are there any problems with the idea?](http://fourthfloor.raveweb.net/cgeh/2017/03/01/sentimental-tracking/)
 
