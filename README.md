@@ -35,7 +35,18 @@ I am the only international student in this course spending 13 hours flying all 
 
 7. [Infographics, good and bad](http://fourthfloor.raveweb.net/cgeh/2017/06/05/infographics-good-and-bad/)
 
-8. [What role (or roles) have you taken in the group project? Summarise your individual contribution.](http://fourthfloor.raveweb.net/cgeh/2017/03/17/what-role-or-roles-have-you-taken-in-the-group-project/)
+8. [Interviewing humans](http://fourthfloor.raveweb.net/cgeh/2017/06/05/interviewing-humans/)
 
-9. [Write 200 words on your blog about the moderation experience and the strategy you took.](http://fourthfloor.raveweb.net/cgeh/2017/03/18/write-200-words-on-your-blog-about-the-moderation-experience-and-the-strategy-you-took/)
+9. [Our space interviews](http://fourthfloor.raveweb.net/cgeh/?p=419&preview=true)
+
+10. [Our space personas](http://fourthfloor.raveweb.net/cgeh/?p=421&preview=true)
+
+11. [10 common typography mistakes](http://fourthfloor.raveweb.net/cgeh/?p=423&preview=true)
+
+12. [Web design myths](http://fourthfloor.raveweb.net/cgeh/?p=425&preview=true)
+
+13. [Destroy the Web](http://fourthfloor.raveweb.net/cgeh/?p=427&preview=true)
+
+14. [What did I learn?](http://fourthfloor.raveweb.net/cgeh/?p=429&preview=true)
+
 
