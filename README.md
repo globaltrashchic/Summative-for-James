@@ -1,4 +1,4 @@
-# Summative-for-James
+# Summative-for-Tor
 # WebDesign Claranz Geh
 Web Design Summative Assessment 
 # WEB14104: Web Development Workshop
@@ -25,15 +25,15 @@ I am the only international student in this course spending 13 hours flying all 
 
 2. [JavaScript for cats](http://fourthfloor.raveweb.net/cgeh/2017/01/28/javascripts-for-cats/)
 
-3. [Research and report back on the topic of “sentiment tracking” in social media analytics. Is it useful? Are there any problems with the idea?](http://fourthfloor.raveweb.net/cgeh/2017/03/01/sentimental-tracking/)
+3. [Make a drawing to illustrate how the Web works](http://fourthfloor.raveweb.net/cgeh/2017/01/28/how-the-web-works/)
 
-4. [What kind of moderation system would be best for your group project for the unit?](http://fourthfloor.raveweb.net/cgeh/2017/03/18/what-kind-of-moderation-system-would-be-best-for-your-group-project-for-the-unit/)
+4. [Get the Idea: capturing attention](http://fourthfloor.raveweb.net/cgeh/2017/06/05/get-the-idea-capturing-attention/)
 
-5. [Research terms and conditions and escalation plans that would make relevant models for your community, and report back on your findings.](http://fourthfloor.raveweb.net/cgeh/2017/03/18/research-terms-and-conditions-and-escalation-plans-that-would-make-relevant-models-for-your-community-and-report-back-on-your-findings/)
+5. [Infographic stories](http://fourthfloor.raveweb.net/cgeh/2017/06/05/compare-two-infographic-stories-by-angela-morelli/)
 
-6. [What kind of events, rituals, roles and content could you use to improve user engagement with your social site and grow the community?](http://fourthfloor.raveweb.net/cgeh/2017/03/18/what-kind-of-events-rituals-roles-and-content-could-you-use-to-improve-user-engagement-with-your-social-site-and-grow-the-community/)
+6. [Copywriting is Interface Design](http://fourthfloor.raveweb.net/cgeh/2017/06/05/copywriting-is-interface-design-2/)
 
-7. [Come up with an original idea for a Snapchat Story to promote your community project.](http://fourthfloor.raveweb.net/cgeh/2017/03/17/snapchat-story/)
+7. [Infographics, good and bad](http://fourthfloor.raveweb.net/cgeh/2017/06/05/infographics-good-and-bad/)
 
 8. [What role (or roles) have you taken in the group project? Summarise your individual contribution.](http://fourthfloor.raveweb.net/cgeh/2017/03/17/what-role-or-roles-have-you-taken-in-the-group-project/)
 
